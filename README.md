@@ -59,18 +59,16 @@ I'm always eager to connect with fellow data enthusiasts, collaborate on excitin
 ![Wayne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wayneotc&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayneotc&layout=compact&theme=radical)
 
-## 📈 More GitHub Stats You Can Add:
+**GitHub Streak Stats:** 
 
-Beyond the basic stats and top languages, you can add more specific metrics to showcase your GitHub activity and contributions. Here are a few popular options, also using the `github-readme-stats` service:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wayneotc&theme=radical)
 
-1.  **GitHub Streak Stats:** 
-    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wayneotc&theme=radical)
+**GitHub Trophies:** 
 
-2.  **GitHub Trophies:** 
-    ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Wayneotc&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Wayneotc&theme=radical)
 
-3.  **Wakatime Stats (if you use it):**
-    ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wayneski&layout=compact&theme=radical)
+**Wakatime Stats (if you use it):**
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wayneski&layout=compact&theme=radical)
 
 
 ## 💻 Tech Stack (as Colored Badges):
