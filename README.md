@@ -10,13 +10,21 @@ Hi there! 👋 I'm Wayne, a passionate data scientist on a mission to turn data 
 - Crafting interactive data dashboards and reports to make data accessible and understandable.
 - Exploring advanced statistical modeling techniques and their applications.
 - Contributing to open-source data science projects.
+
+## 🌱 Currently Learning
+
+- Deep Learning frameworks (TensorFlow/PyTorch) for advanced AI applications.
+- Cloud platforms (AWS/GCP/Azure) for scalable data solutions.
+- MLOps practices to streamline machine learning workflows.
+- Advanced time series analysis and forecasting methods.
+
 ## ✨ Skills & Tools
 
 - **Programming Languages**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly), SQL
 - **Machine Learning**: Supervised & Unsupervised Learning, Regression, Classification, Clustering, Ensemble Methods, Feature Engineering
-- **Data Visualization**: Matplotlib, Seaborn, Plotly, Streamlit
-- **Databases**: MySQL
-- **Tools & Platforms**: Jupyter, VS Code, Git/GitHub
+- **Data Visualization**: Matplotlib, Seaborn, Plotly, Streamlit, Tableau
+- **Databases**: PostgreSQL, MySQL, MongoDB
+- **Tools & Platforms**: Jupyter, VS Code, Git/GitHub, Docker, Apache Spark (basic)
 
 ## 📫 Let’s Connect!
 
@@ -27,13 +35,23 @@ I'm always eager to connect with fellow data enthusiasts, collaborate on excitin
 ## 🌐 Socials:
 
 [LinkedIn Profile Link (Placeholder)]
+[Kaggle Profile Link (Placeholder)]
+[Personal Website/Blog Link (Placeholder)]
+
+---
 
 ## 💻 Tech Stack:
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Plotly
+- Streamlit
+- SQL
+- Git/GitHub
 
 ---
 
@@ -41,10 +59,78 @@ I'm always eager to connect with fellow data enthusiasts, collaborate on excitin
 
 (You can add your GitHub stats widget here, similar to the example. For example, using a service like `github-readme-stats`.)
 
+```markdown
+![Wayne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+```
 
-![Wayne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wayneotc&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayneotc&layout=compact&theme=radical)
+*Remember to replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.*
 
 
 
 
+## 📈 More GitHub Stats You Can Add:
+
+Beyond the basic stats and top languages, you can add more specific metrics to showcase your GitHub activity and contributions. Here are a few popular options, also using the `github-readme-stats` service:
+
+1.  **GitHub Streak Stats:** Shows your longest and current contribution streaks.
+    ```markdown
+    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wayneotc&theme=radical)
+    ```
+
+2.  **GitHub Trophies:** Displays various achievements and trophies based on your GitHub activity.
+    ```markdown
+    ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Wayneotc&theme=radical)
+    ```
+
+3.  **Wakatime Stats (if you use it):** If you track your coding activity with Wakatime, you can display your coding hours and language usage.
+    ```markdown
+    <!-- Replace YOUR_WAKATIME_USERNAME with your actual Wakatime username -->
+    ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=radical)
+    ```
+
+*Remember to replace `Wayneotc` with your actual GitHub username and `YOUR_WAKATIME_USERNAME` if you use Wakatime.*
+
+## 💻 Tech Stack (as Colored Badges):
+
+Instead of just a list, you can display your tech stack using 
+
+
+colored badges, which look much more visually appealing and professional. This is commonly done using [Shields.io](https://shields.io/).
+
+Here's how you can create badges for your data science tech stack. You can mix and match these or find others on Shields.io:
+
+### Programming Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### Data Manipulation & Analysis:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8F408C?style=for-the-badge&logo=scipy&logoColor=white)
+
+
+### Machine Learning Frameworks:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0088CC?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-0077BB?style=for-the-badge&logo=lightgbm&logoColor=white)
+
+
+### Data Visualization:
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0077BB?style=for-the-badge&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Databases:
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Other Tools:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
