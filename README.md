@@ -34,11 +34,7 @@ I'm always eager to connect with fellow data enthusiasts, collaborate on excitin
 
 ## 🌐 Socials:
 
-[LinkedIn Profile Link (Placeholder)]
-[Kaggle Profile Link (Placeholder)]
-[Personal Website/Blog Link (Placeholder)]
-
----
+[LinkedIn Profile Link (www.linkedin.com/in/wayne-kiplagat)]
 
 ## 💻 Tech Stack:
 
@@ -57,6 +53,8 @@ I'm always eager to connect with fellow data enthusiasts, collaborate on excitin
 
 ## 📊 GitHub Stats:
 ![Wayne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wayneotc&show_icons=true&theme=radical)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayneotc&layout=compact&theme=radical)
 
 **GitHub Streak Stats:** 
