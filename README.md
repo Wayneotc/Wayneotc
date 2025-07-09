@@ -47,9 +47,9 @@ I'm always eager to connect with fellow data enthusiasts, collaborate on excitin
 
 (You can add your GitHub stats widget here, similar to the example. For example, using a service like `github-readme-stats`.)
 
-```markdown
+
 ![Wayne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wayneotc&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayneotc&layout=compact&theme=radical)
-```
+
 
 
