@@ -56,8 +56,8 @@ I'm always eager to connect with fellow data enthusiasts, collaborate on excitin
 ---
 
 ## 📊 GitHub Stats:
-![Wayne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Wayne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wayneotc&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayneotc&layout=compact&theme=radical)
 
 ## 📈 More GitHub Stats You Can Add:
 
