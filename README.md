@@ -56,40 +56,22 @@ I'm always eager to connect with fellow data enthusiasts, collaborate on excitin
 ---
 
 ## 📊 GitHub Stats:
-
-(You can add your GitHub stats widget here, similar to the example. For example, using a service like `github-readme-stats`.)
-
-```markdown
 ![Wayne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-```
-
-*Remember to replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.*
-
-
-
 
 ## 📈 More GitHub Stats You Can Add:
 
 Beyond the basic stats and top languages, you can add more specific metrics to showcase your GitHub activity and contributions. Here are a few popular options, also using the `github-readme-stats` service:
 
-1.  **GitHub Streak Stats:** Shows your longest and current contribution streaks.
-    ```markdown
+1.  **GitHub Streak Stats:** 
     ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wayneotc&theme=radical)
-    ```
 
-2.  **GitHub Trophies:** Displays various achievements and trophies based on your GitHub activity.
-    ```markdown
+2.  **GitHub Trophies:** 
     ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Wayneotc&theme=radical)
-    ```
 
-3.  **Wakatime Stats (if you use it):** If you track your coding activity with Wakatime, you can display your coding hours and language usage.
-    ```markdown
-    <!-- Replace YOUR_WAKATIME_USERNAME with your actual Wakatime username -->
-    ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=radical)
-    ```
+3.  **Wakatime Stats (if you use it):**
+    ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wayneski&layout=compact&theme=radical)
 
-*Remember to replace `Wayneotc` with your actual GitHub username and `YOUR_WAKATIME_USERNAME` if you use Wakatime.*
 
 ## 💻 Tech Stack (as Colored Badges):
 
