@@ -30,8 +30,6 @@ Hi there! 👋 I'm Wayne, a passionate data scientist on a mission to turn data 
 
 I'm always eager to connect with fellow data enthusiasts, collaborate on exciting projects, or discuss the latest trends in data science. Feel free to explore my repositories and reach out!
 
----
-
 ## 🌐 Socials:
 
 [LinkedIn Profile Link (www.linkedin.com/in/wayne-kiplagat)]
@@ -61,19 +59,12 @@ I'm always eager to connect with fellow data enthusiasts, collaborate on excitin
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wayneotc&theme=radical)
 
-**Wakatime Stats (if you use it):**
+**Wakatime Stats :**
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wayneski&layout=compact&theme=radical)
 
 
-## 💻 Tech Stack (as Colored Badges):
-
-Instead of just a list, you can display your tech stack using 
-
-
-colored badges, which look much more visually appealing and professional. This is commonly done using [Shields.io](https://shields.io/).
-
-Here's how you can create badges for your data science tech stack. You can mix and match these or find others on Shields.io:
+## 💻 Tech Stack :
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
