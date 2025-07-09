@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 
 📊 Data Scientist | Python | Machine Learning | Data Visualization
 
-Hi there! 👋 I'm Wayne, a passionate data scientist on a mission to turn data into meaningful insights. I thrive on exploring complex datasets, building predictive models, and communicating findings through compelling visualizations. My goal is to leverage data to solve real-world problems and drive informed decisions.
+I'm Wayne, a passionate data scientist on a mission to turn data into meaningful insights. I thrive on exploring complex datasets, building predictive models, and communicating findings through compelling visualizations. My goal is to leverage data to solve real-world problems and drive informed decisions.
 
 ## 🔹 What I’m Working On
 
@@ -29,9 +29,6 @@ Hi there! 👋 I'm Wayne, a passionate data scientist on a mission to turn data 
 ## 📫 Let’s Connect!
 
 I'm always eager to connect with fellow data enthusiasts, collaborate on exciting projects, or discuss the latest trends in data science. Feel free to explore my repositories and reach out!
-
-## 🌐 Socials:
-
 [LinkedIn Profile](https://www.linkedin.com/in/wayne-kiplagat)
 
 
