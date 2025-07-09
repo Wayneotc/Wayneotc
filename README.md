@@ -32,7 +32,8 @@ I'm always eager to connect with fellow data enthusiasts, collaborate on excitin
 
 ## 🌐 Socials:
 
-[LinkedIn Profile Link (www.linkedin.com/in/wayne-kiplagat)]
+[LinkedIn Profile](https://www.linkedin.com/in/wayne-kiplagat)
+
 
 ## 💻 Tech Stack:
 
