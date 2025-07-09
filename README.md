@@ -63,11 +63,8 @@ I'm always eager to connect with fellow data enthusiasts, collaborate on excitin
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wayneotc&theme=radical)
 
-**GitHub Trophies:** 
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Wayneotc&theme=radical)
-
 **Wakatime Stats (if you use it):**
+
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wayneski&layout=compact&theme=radical)
 
 
