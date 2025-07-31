@@ -1,24 +1,24 @@
 # About Me:
 
-📊 Data Scientist | Python | Machine Learning | Data Visualization
+ Data Scientist | Python | Machine Learning | Data Visualization
 
 I'm Wayne, a passionate data scientist on a mission to turn data into meaningful insights. I thrive on exploring complex datasets, building predictive models, and communicating findings through compelling visualizations. My goal is to leverage data to solve real-world problems and drive informed decisions.
 
-## 🔹 What I’m Working On
+##  What I’m Working On
 
 - Developing end-to-end machine learning pipelines from data ingestion to model deployment.
 - Crafting interactive data dashboards and reports to make data accessible and understandable.
 - Exploring advanced statistical modeling techniques and their applications.
 - Contributing to open-source data science projects.
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Deep Learning frameworks (TensorFlow/PyTorch) for advanced AI applications.
 - Cloud platforms (AWS/GCP/Azure) for scalable data solutions.
 - MLOps practices to streamline machine learning workflows.
 - Advanced time series analysis and forecasting methods.
 
-## ✨ Skills & Tools
+## Skills & Tools
 
 - **Programming Languages**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly), SQL
 - **Machine Learning**: Supervised & Unsupervised Learning, Regression, Classification, Clustering, Ensemble Methods, Feature Engineering
@@ -26,13 +26,13 @@ I'm Wayne, a passionate data scientist on a mission to turn data into meaningful
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **Tools & Platforms**: Jupyter, VS Code, Git/GitHub, Docker, Apache Spark (basic)
 
-## 📫 Let’s Connect!
+##  Let’s Connect!
 
 I'm always eager to connect with fellow data enthusiasts, collaborate on exciting projects, or discuss the latest trends in data science. Feel free to explore my repositories and reach out!
 [LinkedIn Profile](https://www.linkedin.com/in/wayne-kiplagat)
 
 
-## 💻 Tech Stack:
+##  Tech Stack:
 
 - Python
 - Pandas
@@ -47,7 +47,7 @@ I'm always eager to connect with fellow data enthusiasts, collaborate on excitin
 
 ---
 
-## 📊 GitHub Stats:
+##  GitHub Stats:
 ![Wayne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wayneotc&show_icons=true&theme=radical)
 
 
@@ -62,7 +62,7 @@ I'm always eager to connect with fellow data enthusiasts, collaborate on excitin
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wayneski&layout=compact&theme=radical)
 
 
-## 💻 Tech Stack :
+##  Tech Stack :
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
