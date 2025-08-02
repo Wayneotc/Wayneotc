@@ -1,6 +1,6 @@
 # About Me:
 
- Data Scientist | Python | Machine Learning | Data Visualization
+ Data Scientist | Python | Machine Learning | Data Visualizations
 
 I'm Wayne, a passionate data scientist on a mission to turn data into meaningful insights. I thrive on exploring complex datasets, building predictive models, and communicating findings through compelling visualizations. My goal is to leverage data to solve real-world problems and drive informed decisions.
 
